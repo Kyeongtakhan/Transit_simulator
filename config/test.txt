@@ -1,0 +1,53 @@
+ROUTE_GENERAL, Campus Connector
+
+Stop Name, Long, Lat, Pass Gen Prob
+
+ROUTE, Another Bound
+
+STOP, Myhouse, 42.972392, -91.243774, .15
+STOP, keller, 42.973580, -91.235071, .3
+STOP, ME, 42.975392, -91.226632, .025
+STOP, Tate, 42.975837, -91.222174, .05
+STOP, Dinky 223, 42.980753, -91.180669, .05
+STOP, FriendHouse, 42.983375, -91.178810, .01
+STOP, delaware st, 42.984540, -91.181692, .01
+STOP, University avenue, 42.984630, -91.186352, 0
+
+ROUTE, The Other Bound
+
+STOP, University avenue, 42.984630, -91.186352, .35
+STOP, Gopher Avenue, 42.984482, -91.181657, .05
+STOP, Korean, 42.983703, -91.178846, .01
+STOP, China, 42.980663, -91.180808, .01
+STOP, Japan, 42.976397, -91.221801, .025
+STOP, Russia, 42.978058, -91.229176, .05
+STOP, Oman, 42.978366, -91.236038, .1
+STOP, Hwai, 42.974549, -91.236927, .3
+STOP, Indonesia, 42.972638, -91.243591, 0
+
+ROUTE_GENERAL, Campus Connector
+
+Stop Name, Long, Lat, Pass Gen Prob
+
+ROUTE, East Bound
+
+STOP, Blegen Hall, 44.972392, -93.243774, .15
+STOP, Coffman, 44.973580, -93.235071, .3
+STOP, Oak Street at University Avenue, 44.975392, -93.226632, .025
+STOP, Transitway at 23rd Avenue SE, 44.975837, -93.222174, .05
+STOP, Transitway at Commonwealth Avenue, 44.980753, -93.180669, .05
+STOP, State Fairgrounds Lot S-108, 44.983375, -93.178810, .01
+STOP, Buford at Gortner Avenue, 44.984540, -93.181692, .01
+STOP, St. Paul Student Center, 44.984630, -93.186352, 0
+
+ROUTE, West Bound
+
+STOP, St. Paul Student Center, 44.984630, -93.186352, .35
+STOP, Buford at Gortner Avenue, 44.984482, -93.181657, .05
+STOP, State Fairgrounds Lot S-108, 44.983703, -93.178846, .01
+STOP, Transitway at Commonwealth Avenue, 44.980663, -93.180808, .01
+STOP, Thompson Center & 23rd Avenue SE, 44.976397, -93.221801, .025
+STOP, Ridder Arena, 44.978058, -93.229176, .05
+STOP, Pleasant Street at Jones-Eddy Circle, 44.978366, -93.236038, .1
+STOP, Bruininks Hall, 44.974549, -93.236927, .3
+STOP, Blegen Hall, 44.972638, -93.243591, 0

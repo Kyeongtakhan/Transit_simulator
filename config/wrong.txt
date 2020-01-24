@@ -1,0 +1,19 @@
+ROUTE_GENERAL, Campus Connector
+
+Stop Name, Long, Lat, Pass Gen Prob
+
+ROUTE, East Bound
+
+STOP, Blegen Hall, 44.972392, -93.243774, 0
+STOP, Coffman, 44.973580, -93.235071, 0
+STOP, Oak Street at University Avenue, 44.975392, -93.226632, 0
+STOP, Transitway at 23rd Avenue SE, 44.975837, -93.222174, 0
+STOP, Transitway at Commonwealth Avenue, 44.980753, -93.180669, 0
+STOP, State Fairgrounds Lot S-108, 44.983375, -93.178810, 0
+STOP, Buford at Gortner Avenue, 44.984540, -93.181692, 0
+STOP, St. Paul Student Center, 44.984630, -93.186352, 1
+
+ROUTE, West Bound
+
+STOP, St. Paul Student Center, 44.984630, -93.186352, 0
+STOP, Blegen Hall, 44.972638, -93.243591, 1
